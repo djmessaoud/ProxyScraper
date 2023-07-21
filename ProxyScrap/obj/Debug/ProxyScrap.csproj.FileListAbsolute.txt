@@ -1,0 +1,10 @@
+C:\Users\Sp3nc3r\source\repos\ProxyScrap\ProxyScrap\obj\Debug\ProxyScrap.csprojAssemblyReference.cache
+C:\Users\Sp3nc3r\source\repos\ProxyScrap\ProxyScrap\obj\Debug\ProxyScrap.Form1.resources
+C:\Users\Sp3nc3r\source\repos\ProxyScrap\ProxyScrap\obj\Debug\ProxyScrap.Properties.Resources.resources
+C:\Users\Sp3nc3r\source\repos\ProxyScrap\ProxyScrap\obj\Debug\ProxyScrap.csproj.GenerateResource.cache
+C:\Users\Sp3nc3r\source\repos\ProxyScrap\ProxyScrap\obj\Debug\ProxyScrap.csproj.CoreCompileInputs.cache
+C:\Users\Sp3nc3r\source\repos\ProxyScrap\ProxyScrap\bin\Debug\ProxyScrap.exe.config
+C:\Users\Sp3nc3r\source\repos\ProxyScrap\ProxyScrap\bin\Debug\ProxyScrap.exe
+C:\Users\Sp3nc3r\source\repos\ProxyScrap\ProxyScrap\bin\Debug\ProxyScrap.pdb
+C:\Users\Sp3nc3r\source\repos\ProxyScrap\ProxyScrap\obj\Debug\ProxyScrap.exe
+C:\Users\Sp3nc3r\source\repos\ProxyScrap\ProxyScrap\obj\Debug\ProxyScrap.pdb
